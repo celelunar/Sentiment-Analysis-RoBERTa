@@ -1,2 +1,2 @@
-# Sentiment-Analysis_RoBERTa
-😄📄 Texts Sentiment Analysis using RoBERTa Model
+# Sentiment-Analysis-RoBERTa
+😄📄 Texts Sentiment Analysis and Classification using RoBERTa Model
